@@ -1,5 +1,5 @@
 # Simple-Licensor
-A licensing service to distribute your software to your clients in a simple hassle-free way.
+A licensing software and key validation server for small scale developers in a simple hassle-free way. 
 
 ## Motivation
 The goal of developing this project is to prevent software piracy and improve protection and security measures for software. The software piracy protection system works by injecting the system into the newly downloaded software product. Users must first register for using a software product and then purchase the software via online payment. Once the payment is complete, users can download the software and the serial key for the same. The software reads the ID of your machine (PC/laptop) and generates a unique user ID by using an algorithm. The user can now log in via the user ID by providing the serial key.
